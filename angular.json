@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "music-app"
+  "defaultProject": "music-app",
+  "cli": {
+    "analytics": "9e591190-e572-42d3-8a92-72b8bc20af2a"
+  }
 }
