@@ -1,4 +1,4 @@
-# About
+# Stream Studio
 
 create your account
 https://developer.spotify.com/
@@ -18,30 +18,34 @@ Song names and get a list of songs with the name that they searched for.
 Artist and get a list of songs and albums that the artist owns.
 
 Album and get a list of songs in that album
-# MusicApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.
 
-## Development server
+## project
+List and play best coke studio songs.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+[Requirement] 
+— Use of Web API to fetch songs details.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+● API Parameters:
+[song, url, artists, cover_image]
 
-## Build
+— Visually interactive design to list​ details.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+— Implement paging ​to display the results properly.
 
-## Running unit tests
+— Zip all your Source code, Screenshots & detailed deployment instructions and upload.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+— Implement a music player in your application to stream songs.
 
-## Running end-to-end tests
+— Coke Studio API : <API link goes here>
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+— For icons and subtle texture:
 
-## Further help
+http://glyphsearch.com/
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+http://subtlepatterns.com/thumbnail­view/
+
+http://codebeautify.org/jsonviewer
+
+http://www.flaticon.com/categories
