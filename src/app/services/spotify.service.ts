@@ -80,3 +80,21 @@ headers = headers.set('Authorization', 'Basic ' + this.encoded).set('Content-Typ
 
 
 }
+
+  // httpHeadersUsage(str: string, type = "artist", token: string) {
+  //   const headers = new HttpHeaders({ "Authorization": "Bearer " + token });
+
+  // }
+
+  // getToken() {
+  //   var params = ("grant_type=client_credentials");
+  //   let headers = new HttpHeaders();
+  //   const encoded = '';
+  //   headers = headers.set("Authorization", "Basic " + encoded).set("Content-Type", "application/x-www-form-urlencoded");
+  //   // "https://accounts.spotify.com/api/token"
+  // }
+
+
+  // spotifyUrl: "https://api.spotify.com/v1/search?query='+str+'&offset=0&limit=50&type='+type"
+	
+
