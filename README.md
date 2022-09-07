@@ -1,20 +1,5 @@
 # Stream Studio
 
-create your account
-https://developer.spotify.com/
-
-Then create new app  and get the clientID and secret from the created app.
-
-This Angular application will use the Spotify API to allow us to search for artists and album info and allow us to preview tracks from the application.
-
-# project link
-
-https://angulardevelopment.github.io/music-app/
-
-# build command
-ng build --prod --baseHref=” https://angulardevelopment.github.io/music-app/
-# Project
-
 Utilizing the Spotify Web API, users will be able to search for music. They can also preview the searched music.
 
 Users can search for:
