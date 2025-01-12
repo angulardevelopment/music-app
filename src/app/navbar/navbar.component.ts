@@ -4,7 +4,8 @@ import { Component } from "@angular/core";
 
 
     selector: 'navbar',
-    templateUrl: 'navbar.component.html'
+    templateUrl: 'navbar.component.html',
+    standalone: false
 
 })
 

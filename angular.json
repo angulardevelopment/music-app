@@ -68,18 +68,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "music-app:build"
+            "buildTarget": "music-app:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "music-app:build:production"
+              "buildTarget": "music-app:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "music-app:build"
+            "buildTarget": "music-app:build"
           }
         },
         "test": {

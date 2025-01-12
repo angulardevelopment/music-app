@@ -12,7 +12,7 @@ import { map } from 'rxjs/operators';
 
     selector: 'artist',
     templateUrl: 'artist.component.html',
-
+    standalone: false
 })
 
 export class ArtistComponent implements OnInit{

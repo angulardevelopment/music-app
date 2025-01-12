@@ -10,8 +10,8 @@ import { map } from 'rxjs/operators';
 
 
     selector: 'album',
-    templateUrl: 'album.component.html'
-
+    templateUrl: 'album.component.html',
+    standalone: false
 })
 
 export class AlbumComponent {

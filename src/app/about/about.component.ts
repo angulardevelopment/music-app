@@ -4,7 +4,8 @@ import { Component } from "@angular/core";
 
 
     selector: 'about',
-    templateUrl: 'about.component.html'
+    templateUrl: 'about.component.html',
+    standalone: false
 
 })
 

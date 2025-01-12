@@ -6,7 +6,8 @@ import { SpotifyService } from "../services/spotify.service";
 
     selector: 'search',
     templateUrl: 'search.component.html',
-    providers:[SpotifyService]
+    providers:[SpotifyService],
+    standalone: false
 })
 
 export class SearchComponent{
